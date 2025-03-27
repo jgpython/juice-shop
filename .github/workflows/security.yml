@@ -55,3 +55,4 @@ jobs:
         path: |
           osv-results.txt
           snyk-results.json
+	if-not-files-found: warn
